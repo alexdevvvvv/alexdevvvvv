@@ -1,5 +1,5 @@
 # Bonjour, je suis alexdev 👋
-## Développeur Full Stack | Passionné de Tech et Open Source
+## Développeur Full Stack | NodeJS | Blockchain
 
 ## Contactez-Moi
 
